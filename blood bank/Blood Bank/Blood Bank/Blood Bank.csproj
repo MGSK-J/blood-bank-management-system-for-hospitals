@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4366116B-F527-4183-AE40-E963A84C7890}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Blood_Bank</RootNamespace>
+    <AssemblyName>Blood Bank</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Essentials, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Essentials.1.6.1\lib\netstandard2.0\Xamarin.Essentials.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About Software.Designer.cs">
+      <DependentUpon>About Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs" />
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bloodBankDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bloodBankDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Clerck Account Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clerck Account Login.Designer.cs">
+      <DependentUpon>Clerck Account Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clerck Account View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clerck Account View.Designer.cs">
+      <DependentUpon>Clerck Account View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clerk Manual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clerk Manual.Designer.cs">
+      <DependentUpon>Clerk Manual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clerk.cs" />
+    <Compile Include="Description Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Description Form.Designer.cs">
+      <DependentUpon>Description Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Director Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Director Form.Designer.cs">
+      <DependentUpon>Director Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Director Login Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Director Login Form.Designer.cs">
+      <DependentUpon>Director Login Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Director Manual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Director Manual.Designer.cs">
+      <DependentUpon>Director Manual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Director.cs" />
+    <Compile Include="DirectorEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirectorEditForm.Designer.cs">
+      <DependentUpon>DirectorEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor Account Logged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor Account Logged.Designer.cs">
+      <DependentUpon>Doctor Account Logged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor Account View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor Account View.Designer.cs">
+      <DependentUpon>Doctor Account View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor Login.cs" />
+    <Compile Include="Doctor Manual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor Manual.Designer.cs">
+      <DependentUpon>Doctor Manual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="donar.cs" />
+    <Compile Include="DonarExpression.cs" />
+    <Compile Include="DonarInformationToDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonarInformationToDoctor.Designer.cs">
+      <DependentUpon>DonarInformationToDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Donor_Lived_in_Pandameic_Area_Tests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Donor_Lived_in_Pandameic_Area_Tests.Designer.cs">
+      <DependentUpon>Donor_Lived_in_Pandameic_Area_Tests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Get Blood Donator Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Get Blood Donator Details.Designer.cs">
+      <DependentUpon>Get Blood Donator Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab Assistant.cs" />
+    <Compile Include="LAB Manual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LAB Manual.Designer.cs">
+      <DependentUpon>LAB Manual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LAB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LAB.Designer.cs">
+      <DependentUpon>LAB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabAssistantEditAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabAssistantEditAccount.Designer.cs">
+      <DependentUpon>LabAssistantEditAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabAssistantLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LabAssistantLoginForm.Designer.cs">
+      <DependentUpon>LabAssistantLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadForm.Designer.cs">
+      <DependentUpon>LoadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otp.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Token.cs" />
+    <Compile Include="Update Donar Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Donar Details.Designer.cs">
+      <DependentUpon>Update Donar Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAllDonarsPreEligibilityData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAllDonarsPreEligibilityData.Designer.cs">
+      <DependentUpon>ViewAllDonarsPreEligibilityData.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About Software.resx">
+      <DependentUpon>About Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clerck Account Login.resx">
+      <DependentUpon>Clerck Account Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clerck Account View.resx">
+      <DependentUpon>Clerck Account View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clerk Manual.resx">
+      <DependentUpon>Clerk Manual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Description Form.resx">
+      <DependentUpon>Description Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Director Form.resx">
+      <DependentUpon>Director Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Director Login Form.resx">
+      <DependentUpon>Director Login Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Director Manual.resx">
+      <DependentUpon>Director Manual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirectorEditForm.resx">
+      <DependentUpon>DirectorEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor Account Logged.resx">
+      <DependentUpon>Doctor Account Logged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor Account View.resx">
+      <DependentUpon>Doctor Account View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor Manual.resx">
+      <DependentUpon>Doctor Manual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonarInformationToDoctor.resx">
+      <DependentUpon>DonarInformationToDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donor_Lived_in_Pandameic_Area_Tests.resx">
+      <DependentUpon>Donor_Lived_in_Pandameic_Area_Tests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Get Blood Donator Details.resx">
+      <DependentUpon>Get Blood Donator Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LAB Manual.resx">
+      <DependentUpon>LAB Manual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LAB.resx">
+      <DependentUpon>LAB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabAssistantEditAccount.resx">
+      <DependentUpon>LabAssistantEditAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LabAssistantLoginForm.resx">
+      <DependentUpon>LabAssistantLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadForm.resx">
+      <DependentUpon>LoadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Update Donar Details.resx">
+      <DependentUpon>Update Donar Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAllDonarsPreEligibilityData.resx">
+      <DependentUpon>ViewAllDonarsPreEligibilityData.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bloodBankDBDataSet.xsc">
+      <DependentUpon>bloodBankDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bloodBankDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bloodBankDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bloodBankDBDataSet.xss">
+      <DependentUpon>bloodBankDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-donating-blood-background-flat-design_23-2148257793.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userName.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clerck edit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clerck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visual Studio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sql.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mssqlNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoftSQL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SQLPNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clerk manual.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about software.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about us.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor manual.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lab user manual.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\director manual.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

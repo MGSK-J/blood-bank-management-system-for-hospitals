@@ -1,0 +1,95 @@
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csprojAssemblyReference.cache
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AdminForm.resources
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.dll
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.xml
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CopyComplete
+C:\Users\Navod\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Get_Blood_Donator_Details.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.dll
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.xml
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AdminForm.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Get_Blood_Donator_Details.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CopyComplete
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Update_Donar_Details.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Clerck_Account_Login.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Clerck_Account_View.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form2.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor_Account_View.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor_Account_Logged.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LAB.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LabAssistantEditAccount.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LabAssistantLoginForm.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Director_Form.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Director_Login_Form.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DirectorEditForm.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LoadForm.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DonarInformationToDoctor.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.ViewAllDonarsPreEligibilityData.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Description_Form.resources
+C:\Users\DELL\Desktop\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Donor_Lived_in_Pandameic_Area_Tests.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe.config
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.exe
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\Blood Bank.pdb
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.dll
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\bin\Debug\Xamarin.Essentials.xml
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csprojAssemblyReference.cache
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.About_Software.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.AdminForm.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Clerck_Account_Login.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Clerck_Account_View.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Clerk_Manual.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Description_Form.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Director_Form.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Director_Login_Form.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Director_Manual.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DirectorEditForm.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor_Account_Logged.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor_Account_View.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor_Manual.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Doctor.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.DonarInformationToDoctor.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Donor_Lived_in_Pandameic_Area_Tests.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form1.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Form2.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Get_Blood_Donator_Details.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LAB_Manual.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LAB.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LabAssistantEditAccount.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LabAssistantLoginForm.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.LoadForm.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Properties.Resources.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.Update_Donar_Details.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood_Bank.ViewAllDonarsPreEligibilityData.resources
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.GenerateResource.cache
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CoreCompileInputs.cache
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.csproj.CopyComplete
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.exe
+C:\Users\sonali\Downloads\blood bank\blood bank\Blood Bank\Blood Bank\obj\Debug\Blood Bank.pdb
